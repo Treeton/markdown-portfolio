@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Sports
+  * Tennis 🎾
+  * Soccer ⚽
+* Instruments
+  * Saxophone 🎷
+* Food
+  * *Röschti* 🥘
